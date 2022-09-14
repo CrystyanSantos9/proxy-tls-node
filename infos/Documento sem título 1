@@ -1,0 +1,17 @@
+ECDHE-PSK-AES256-CBC-SHA384:
+ECDHE-PSK-AES256-CBC-SHA:SRP-RSA-AES-256-CBC-SHA:SRP-AES-256-CBC-SHA:RSA-PSK-AES256-CBC-SHA384:DHE-PSK-AES256-CBC-SHA384:RSA-PSK-AES256-CBC-SHA:DHE-PSK-AES256-CBC-SHA:PSK-AES256-CBC-SHA384:PSK-AES256-CBC-SHA:ECDHE-PSK-AES128-CBC-SHA256:ECDHE-PSK-AES128-CBC-SHA:RSA-PSK-AES128-CBC-SHA256
+DHE-PSK-AES128-CBC-SHA256 
+RSA-PSK-AES128-CBC-SHA  
+DHE-PSK-AES128-CBC-SHA 
+PSK-AES128-CBC-SHA256   
+
+https://sensedia.zendesk.com/agent/tickets/964511
+
+
+url: https://5040-186-231-204-62.sa.ngrok.io
+
+minha api de teste: https://manager-support-aws.sensedia.com/api-manager/#/apis/overview/257/revisions/7730
+ambiente utilizado: https://manager-support-aws.sensedia.com/api-manager/#/environments/edit/64
+
+
+endpoint: https://api-support-aws.sensedia.com/test/primeira_api-demo/v1/user
